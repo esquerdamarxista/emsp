@@ -255,11 +255,13 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  commonmarker (~> 0.23.6)
   github-pages (~> 227)
-  http_parser.rb (~> 0.6.0)
+  http_parser.rb (~> 0.8.0)
   jekyll-feed (~> 0.12)
   tzinfo (~> 1.2)
   tzinfo-data
+  unf_ext (~> 0.0.8.2)
   wdm (~> 0.1.1)
 
 BUNDLED WITH
