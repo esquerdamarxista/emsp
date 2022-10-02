@@ -2,7 +2,7 @@
 layout: post
 title: "Calendário de Outubro da Esquerda Marxista de São Paulo / SP"
 date: 2022-10-02 11:42:10 -0300
-categories: calendário outubro presencial update
+catogories: posts
 ---
 
 **Outubro**

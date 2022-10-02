@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby]
 gem "commonmarker", "~> 0.23.6"
 gem "unf_ext"," ~> 0.0.8.2" 
 gem "webrick", "~> 1.7"
+gem "i18n", "~> 0.9.5"
