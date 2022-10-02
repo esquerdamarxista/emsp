@@ -1,0 +1,6 @@
+time="2022-10-02T11:21:01-03:00" level=debug msg="OpenShift Installer 4.11.1"
+time="2022-10-02T11:21:01-03:00" level=debug msg="Built from commit 1d2450c520b70765b53b71da5e8544657d50d6e2"
+time="2022-10-02T11:21:01-03:00" level=fatal msg="Failed while preparing to destroy cluster: open metadata.json: no such file or directory"
+time="2022-10-02T11:21:06-03:00" level=debug msg="OpenShift Installer 4.11.1"
+time="2022-10-02T11:21:06-03:00" level=debug msg="Built from commit 1d2450c520b70765b53b71da5e8544657d50d6e2"
+time="2022-10-02T11:21:06-03:00" level=fatal msg="Failed while preparing to destroy cluster: open metadata.json: no such file or directory"
