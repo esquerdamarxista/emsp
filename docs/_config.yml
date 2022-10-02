@@ -20,12 +20,11 @@
 
 title: Calendário da Esquerda Marxista - São Paulo / SP
 email: marxismoorgbr@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-        Calendário de eventos da Esquerda Marxista em São Paulo / SP
-        A Esquerda Marxista é a seção Brasileira da Corrente Marxista Internacional
-        Acesse nosso site em marxismo.org.br
-        Contato em marxismoorgbr@gmail.com
-
+description: >- 
+  Calendário de eventos da Esquerda Marxista em São Paulo / SP
+  A Esquerda Marxista é a seção Brasileira da Corrente Marxista Internacional
+  Acesse nosso site em marxismo.org.br
+  Contato em marxismoorgbr@gmail.com
 baseurl: "/emsp" # the subpath of your site, e.g. /blog
 url: "http://esquerdamarxista.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EM_CMI
