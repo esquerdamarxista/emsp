@@ -25,8 +25,8 @@ description: >-
   A Esquerda Marxista é a seção Brasileira da Corrente Marxista Internacional
   Acesse nosso site em marxismo.org.br
   Contato em marxismoorgbr@gmail.com
-baseurl: "/emsp" # the subpath of your site, e.g. /blog
-url: "http://esquerdamarxista.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/emsp" # the subpath of your site, e.g. /blog
+#url: "http://esquerdamarxista.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EM_CMI
 github_username:  esquerdamarxista
 
