@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calendário de Outubro da Esquerda Marxista de São Paulo / SP"
+title: "Outubro"
 date: 2022-10-02 11:42:10 -0300
 catogories: posts
 ---
